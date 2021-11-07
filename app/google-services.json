@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "715147217435",
+    "project_id": "wired-axis-238805",
+    "storage_bucket": "wired-axis-238805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715147217435:android:235563339d5a66d70586be",
+        "android_client_info": {
+          "package_name": "com.example.whatsthemove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715147217435-k2c851p3gqqo2s2q5kg110gqmi0tdib2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsthemove",
+            "certificate_hash": "95b03305c912a45c494c47bb0878d4e2ec9cb05d"
+          }
+        },
+        {
+          "client_id": "715147217435-smbe3d3oi6jcs8ic1mi7ujcepbgsrp3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdDnEWcNPQUVbf0gVYS9eEy_IimTMRuUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715147217435-smbe3d3oi6jcs8ic1mi7ujcepbgsrp3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
